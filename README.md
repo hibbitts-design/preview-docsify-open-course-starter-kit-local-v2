@@ -1,4 +1,4 @@
-| 🛑 | **This is a testing-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-open-course-starter-kit-local.** |
+| ⚠️ | **This is a preview-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-open-course-starter-kit-local.** |
 |---|:--|
 
 # Docsify Open Course Starter Kit Local
@@ -626,4 +626,5 @@ _Video 1. Generating Documentation Sites with GitHub and Docsify - Alysson Alvar
 
 🙇‍Credits and Special Thanks
 ---
+
 All past and current Docsify.js.org maintainers and contributors.
