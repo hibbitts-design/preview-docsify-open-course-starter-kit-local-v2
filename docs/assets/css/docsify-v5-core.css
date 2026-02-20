@@ -112,7 +112,6 @@
 
 .markdown-section blockquote.announcement {
   background-color: var(--color-mono-1);
-  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5));
 }
 
 .markdown-section blockquote.announcement {
