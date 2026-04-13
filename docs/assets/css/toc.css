@@ -15,7 +15,8 @@
   display: flex;
   flex-direction: row-reverse;
   justify-content: center;
-  margin-left: 40px; /* restore left breathing room lost to flex centering */
+  padding-left: 24px;
+  padding-right: 24px;
 }
 /* Specific style for .token.content inside code blocks */
 .content code .token.content {
