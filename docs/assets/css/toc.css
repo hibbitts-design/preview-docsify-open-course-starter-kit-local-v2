@@ -125,6 +125,8 @@ aside.nav.nothing {
   }
   .content {
     display: block;
+    padding-left: 0;
+    padding-right: 0;
   }
   .markdown-section {
     margin: 0 auto;
