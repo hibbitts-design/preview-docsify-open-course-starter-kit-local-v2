@@ -6,8 +6,7 @@
 **New:**
 * Built with the modernized and refactored Docsify v5 platform
 * Adoption of Docsify v5's new theme system for enhanced customization and a modern user interface
-* Use of Marked.js v15+ (from Docsify v5) for markdown rendering, providing improved compatibility and rendering capabilities
-* Automatic image path resolution for HTML image assets using data-src attribute relative to site base path with fallback support
+* Use of Marked.js v16+ (from Docsify v5) for markdown rendering, providing improved compatibility and rendering capabilities
 * Added support for responsive tables (with thanks and appreciation to @jhildenbiddle for the original Docsify v4 Themeable plugin)
 
 **Improved:**
@@ -31,7 +30,7 @@
 * Fixed Font Awesome plugin regex to only match :fa- prefixed patterns
 
 **Breaking:**
-* With the use of Docsify v5 Legacy Browsers (for example, Internet Explorer 11) are no longer supported
+* With the use of Docsify v5, Legacy Browsers (for example, Internet Explorer 11) are no longer supported 
 
 # Changelog
 
