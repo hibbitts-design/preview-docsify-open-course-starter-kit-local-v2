@@ -34,6 +34,20 @@
 
 # Changelog
 
+## [v1.3.7](https://github.com/hibbitts-design/docsify-open-course-starter-kit-local/releases/tag/v1.3.7)
+### 06/03/2026
+
+**Improved:**
+* Enhanced search results display with page grouping, section titles, smart deduplication, and keyboard navigation
+
+## [v1.3.6](https://github.com/hibbitts-design/docsify-open-course-starter-kit-local/releases/tag/v1.3.6)
+### 12/23/2025
+
+**Improved:**
+* Hide empty rows in responsive tables
+* Left align rows in responsive tables
+* Minor refresh of Sidebar UI
+
 ## [v1.3.5](https://github.com/hibbitts-design/docsify-open-course-starter-kit-local/releases/tag/v1.3.5)
 ### 11/26/2025
 
